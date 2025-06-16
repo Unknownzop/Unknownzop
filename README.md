@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Puzzle discord Bot**
 
-- 🌱 I’m currently learning **Javascript , Python**
+- 🌱 I’m currently god of **Javascript** But learning **Python**
 
 - 📫 How to reach me **editunknownz@gmail.com**
 
-- ⚡ Fun fact **I am Psychopath**
+- ⚡ Fun fact **I am Chill Guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
