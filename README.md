@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/unknownz op" target="blank"><img src="https://img.shields.io/twitter/follow/unknownz op?logo=twitter&style=for-the-badge" alt="unknownz op" /></a> </p>
 
-- 🔭 I’m currently working on **Puzzle discord Bot**
+- 🔭 I’m currently working on **Log Tracker discord Bot**
 
 - 🌱 I’m currently god of **Javascript** But learning **Python**
 
