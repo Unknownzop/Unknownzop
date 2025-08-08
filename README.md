@@ -1,5 +1,5 @@
-<h1 align="center" style="color:#f0f0f0;">Hi 👋, I'm Unknownz</h1>
-<h3 align="center" style="color:#f0f0f0;">A passionate developer from India</h3>
+<h1 align="center">Hi 👋, I'm Unknownz</h1>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6666&center=true&vCenter=true&width=435&lines=Developer+%F0%9F%92%BB;Tech+Enthusiast+from+India+%F0%9F%87%AE%F0%9F%87%B3;Always+learning+%F0%9F%93%9A+Always+building+%F0%9F%9B%A0" alt="Typing SVG" />
@@ -17,7 +17,7 @@
 
 ---
 
-<h3 align="left" style="color:#f0f0f0;">🧠 Languages:</h3>
+<h3 align="left">🧠 Languages:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<h3 align="left" style="color:#f0f0f0;">🛠️ Tools & Platforms:</h3>
+<h3 align="left">🛠️ Tools & Platforms:</h3>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
