@@ -1,23 +1,23 @@
-<h1 align="center" style="color:white;">Hi 👋, I'm Unknownz</h1>
-<h3 align="center" style="color:white;">A passionate developer from India</h3>
+<h1 align="center" style="color:#d3d3d3;">Hi 👋, I'm Unknownz</h1>
+<h3 align="center" style="color:#d3d3d3;">A passionate developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Developer+%F0%9F%92%BB;Tech+Enthusiast+from+India+%F0%9F%87%AE%F0%9F%87%B3;Always+learning+%F0%9F%93%9A+Always+building+%F0%9F%9B%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B0000&center=true&vCenter=true&width=435&lines=Developer+%F0%9F%92%BB;Tech+Enthusiast+from+India+%F0%9F%87%AE%F0%9F%87%B3;Always+learning+%F0%9F%93%9A+Always+building+%F0%9F%9B%A0" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=unknownzop&label=Profile+Views&color=red&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=unknownzop&label=Profile+Views&color=8B0000&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="mailto:editunknownz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-editunknownz@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-editunknownz@gmail.com-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </p>
 
 ---
 
-<h3 align="left" style="color:white;">🧠 Languages:</h3>
+<h3 align="left" style="color:#d3d3d3;">🧠 Languages:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<h3 align="left" style="color:white;">🛠️ Tools & Platforms:</h3>
+<h3 align="left" style="color:#d3d3d3;">🛠️ Tools & Platforms:</h3>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
