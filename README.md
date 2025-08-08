@@ -2,16 +2,16 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6666&center=true&vCenter=true&width=435&lines=Developer+%F0%9F%92%BB;Tech+Enthusiast+from+India+%F0%9F%87%AE%F0%9F%87%B3;Always+learning+%F0%9F%93%9A+Always+building+%F0%9F%9B%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Developer+%F0%9F%92%BB;Tech+Enthusiast+from+India+%F0%9F%87%AE%F0%9F%87%B3;Always+learning+%F0%9F%93%9A+Always+building+%F0%9F%9B%A0" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=unknownzop&label=Profile+Views&color=FF6666&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=unknownzop&label=Profile+Views&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="mailto:editunknownz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-editunknownz@gmail.com-FF6666?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-editunknownz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </p>
 
