@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Unknownz0/branding/main/tech-stack-banner.svg" alt="Tech Stack Banner" width="400"/>
+  <strong style="font-size: 24px;">💻 Tech Stack</strong>
 </p>
 
 <p align="center">
