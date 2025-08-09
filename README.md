@@ -2,11 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Emblem_of_India.svg/1200px-Emblem_of_India.svg.png" alt="India Emblem" width="80" height="80"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Developer+%F0%9F%92%BB;Tech+Enthusiast+from+India+%F0%9F%87%AE%F0%9F%87%B3;Always+learning+%F0%9F%93%9A+Always+building+%F0%9F%9B%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Developer+💻;Tech+Enthusiast+from+India+🇮🇳;Always+learning+📚+Always+building+🛠️" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,6 +14,8 @@
     <img src="https://img.shields.io/badge/Email-editunknownz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </p>
+
+---
 
 <h3 align="left">🧠 Languages:</h3>
 <p align="left">
