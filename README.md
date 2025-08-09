@@ -12,7 +12,9 @@
   </a>
 </p>
 
-## 💻 Tech Stack
+<p align="center">
+  <img src="https://shift.com/blog/news/tips-building-tech-stack-success/" alt="Tech Stack Overview" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
