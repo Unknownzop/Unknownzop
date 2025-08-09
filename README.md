@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm Unknownz</h1>
-<h3 align="center">A passionate developer from India</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Developer+💻;Tech+Enthusiast+from+India+🇮🇳;Always+learning+📚+Always+building+🛠️" alt="Typing SVG" />
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=unknownzop&label=Profile+Views&style=for-the-badge" alt="Profile Views" />
