@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Developer+💻;Tech+Enthusiast+from+India+🇮🇳;Always+learning+📚+Always+building+🛠️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Developer+💻;Tech+Enthusiast+from+India+🇮🇳;Always+learning+📚+Always+building+🛠️" alt="Typing SVG" />
 </p>
 
 <p align="center">
