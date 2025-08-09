@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Analytical_Infrastructure_Technology_Stack.svg" alt="Tech Stack SVG" width="700"/>
+  <img src="https://raw.githubusercontent.com/Unknownz0/branding/main/tech-stack-banner.svg" alt="Tech Stack Banner" width="400"/>
 </p>
 
 <p align="center">
