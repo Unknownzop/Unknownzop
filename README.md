@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:editunknownz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-editunknownz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  <a href="mailto:me@unknownz.ggff.net">
+    <img src="https://img.shields.io/badge/Email-me@unknownz.ggff.net-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </p>
 
