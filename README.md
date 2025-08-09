@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://blog.orientsoftware.com/media/4j5nqj3p/tech-stack.png" alt="Tech Stack Overview" width="700"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Analytical_Infrastructure_Technology_Stack.svg" alt="Tech Stack SVG" width="700"/>
 </p>
 
 <p align="center">
