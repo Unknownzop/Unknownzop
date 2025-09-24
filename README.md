@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Unknownz+Developer+%7C+Tech+Enthusiast+from+India+%7C+Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Unknownz;Tech+Enthusiast+from+India;Always+Learning;Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong style="font-size: 28px;">MY TECHNOLOGY</strong>
+  <strong style="font-size: 28px;">I KNOWS</strong>
 </p>
 
 <div align="center"> 
