@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Unknownz+👤;Developer+💻;Tech+Enthusiast+from+India+🇮🇳;Always+learning+📚+Always+building+🛠️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Unknownz+Developer+|+Tech+Enthusiast+from+India+|+Always+Learning+|+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -7,19 +7,19 @@
 </p>
 
 <p align="center">
-  <strong style="font-size: 24px;">💻 Tech Stack</strong>
+  <strong style="font-size: 28px;">💻 Tech Stack</strong>
 </p>
 
 <div align="center"> 
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="80" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="80" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=ts" height="80" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=html" height="80" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=css" height="80" alt="css logo"  />
 </div>
 
 ###
