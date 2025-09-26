@@ -13,8 +13,6 @@
 <div align="center"> 
   <img src="https://skillicons.dev/icons?i=js" height="80" alt="javascript logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="80" alt="nodejs logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=ts" height="80" alt="typescript logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=html" height="80" alt="html5 logo"  />
