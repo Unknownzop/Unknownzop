@@ -1,5 +1,5 @@
 # It's me Unknownz
 
-[![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![Profile Views](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/unknownzop/gh-profile-views.json&style=for-the-badge)](https://github.com/unknownzop)
-[![Contact](https://img.shields.io/badge/Email-EditUnknownz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:editunknownz@gmail.com)
+[![Language](https://img.shields.io/badge/language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=unknownzop&style=flat-square&color=0e75b6)](https://github.com/unknownzop)
+[![Contact](https://img.shields.io/badge/contact-EditUnknownz@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:editunknownz@gmail.com)
