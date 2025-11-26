@@ -1,7 +1,2 @@
-# 👋🏻
-
-**Skill:**  
-[![JavaScript](https://img.shields.io/badge/JavaScript-FFD700)](https://www.javascript.com/)
-
-**Project:**  
-[![BaggyBlue](https://img.shields.io/badge/BaggyBlue-3399FF)](https://baggyblue.fun)
+# 👋🏻 
+[![Language](https://img.shields.io/badge/idk-Javascript-FFD700)](https://www.javascript.com/) [![Project](https://img.shields.io/badge/idntown-baggyblue-00ADD8)](https://baggyblue.fun)
