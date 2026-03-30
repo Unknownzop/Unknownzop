@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/142665329?v=4"  />
-</div>
-
 ###
 
 <h1 align="center">Hey 👋What's Up?</h1>
