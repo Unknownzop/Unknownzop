@@ -1,24 +1,42 @@
-# 👋 Hi, I’m Unknownz | Anonymous
+<div align="center">
+  <img height="200" src="https://avatars.githubusercontent.com/u/142665329?v=4"  />
+</div>
 
-> Code speaks. Identity hidden. Building seamless experiences in the shadows.
+###
 
-## 🛠️ What I Do
-- **Discord Bot Development** – Backend logic, automation, and high-quality music streaming.  
-- **Web Development** – Simple, clean, and efficient web projects.  
-- **Open-Source Contributions** – Explore my open-source contributions, utility scripts, and experiments on GitHub.
+<h1 align="center">Hey 👋What's Up?</h1>
 
-## 💻 Tech Stack
-- **Languages:** JavaScript, HTML, CSS  
-- **Frameworks / Libraries:** Node.js, Discord.js  
-- **Tools:** Git, GitHub, VS Code  
+###
 
-## 🎵 Featured Creations
-- **Drum Music Bot** – High-quality audio streaming for Discord with low latency and intuitive commands.
+<p align="center">I am Unknownz<br>Anonymous | Discord Bot Developer • Web Developer • Owner of Drum</p>
 
-## 🌐 Connect
-- **Portfolio:** [unknownz.us.cc](https://unknownz.us.cc)  
-- **Discord:** `unknownzop`  
-- **Email:** `me@unknownz.us.cc`
+###
 
-## ⚡ Fun Fact
-Stealth mode: **Enabled** 😎
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="60" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=unknownzop.unknownzop&"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="mailto:me@unknownz.us.cc" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
