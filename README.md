@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I am Unknownz<br>Anonymous | Discord Bot Developer • Web Developer • Owner of Drum</p>
+<p align="center">I am Unknownz<br>Anonymous | Discord Bot Developer</p>
 
 ###
 
