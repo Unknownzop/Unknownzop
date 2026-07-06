@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I am Unknownz<br>Anonymous | Discord Bot Developer</p>
+<p align="center">I am Unknownz<br>Anonymous | Discord Bot Developer | Creator of Imagine</p>
 
 ###
 
